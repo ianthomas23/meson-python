@@ -41,7 +41,6 @@ extensions = [
     'sphinx_contributors',
     'sphinx_copybutton',
     'sphinx_design',
-    'sphinxcontrib.spelling',
     'sphinxext.opengraph',
 ]
 
@@ -83,12 +82,6 @@ html_theme_options = {
         ),
     },
 }
-
-
-# Spellchecking
-
-spelling_show_suggestions = True
-spelling_warning = True
 
 
 # Open Graph

@@ -287,7 +287,7 @@ Distributing the project
 ------------------------
 
 Now that we have the distribution artifacts, we can upload them to a repository.
-We will upload them to the `Python Package Index`_ (:spelling:word:`abv`. *PyPI*,
+We will upload them to the `Python Package Index`_ (*PyPI*,
 `pronounced "pie pea eye"`_), which is repository that comes enabled by default
 in most tools.
 
